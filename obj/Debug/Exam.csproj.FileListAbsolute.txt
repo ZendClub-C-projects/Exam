@@ -1,0 +1,7 @@
+C:\Users\Zend1k\source\repos\Exam\Exam\bin\Debug\Exam.exe.config
+C:\Users\Zend1k\source\repos\Exam\Exam\bin\Debug\Exam.exe
+C:\Users\Zend1k\source\repos\Exam\Exam\bin\Debug\Exam.pdb
+C:\Users\Zend1k\source\repos\Exam\Exam\obj\Debug\Exam.csprojAssemblyReference.cache
+C:\Users\Zend1k\source\repos\Exam\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+C:\Users\Zend1k\source\repos\Exam\Exam\obj\Debug\Exam.exe
+C:\Users\Zend1k\source\repos\Exam\Exam\obj\Debug\Exam.pdb
